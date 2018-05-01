@@ -1,0 +1,4 @@
+/home/george/Code_Exercise/Trying/build/CMakeFiles/edit_cache.dir
+/home/george/Code_Exercise/Trying/build/CMakeFiles/rebuild_cache.dir
+/home/george/Code_Exercise/Trying/build/CMakeFiles/Trying_main.dir
+/home/george/Code_Exercise/Trying/build/CMakeFiles/mylib.dir

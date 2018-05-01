@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Trying_main.dir/src/main.cpp.o CMakeFiles/Trying_main.dir/src/Class.cpp.o  -o Trying_main -rdynamic libmylib.a 
